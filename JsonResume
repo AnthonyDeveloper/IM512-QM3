@@ -1,0 +1,182 @@
+{
+  "basics": {
+    "name": "Anthony Baumgartner",
+    "label": "Interactive Media Developer",
+    "picture": "https://i0.wp.com/anthonyismedia.com/wp-content/uploads/AnthonyProfilePicFramed-2.png?resize=1024%2C1024",
+    "email": "anthonybaumgartner@hotmail.ca",
+    "phone": "(912) 555-4321",
+    "website": "http://anthonyismedia.com/",
+    "summary": "Nowadays, more talented people are making their passion a career and I’m no different. I love making anything! Art, software, 3D models, music, websites, animation you name it, I’ve most likely tried it before and I don’t think I’ll ever get tired of it. Allow me to introduce myself, I am Anthony Baumgartner, an Interactive Media Development Student from Confederation College and I am pursuing my passion to keep creating and making ideas come alive in any medium I get my hands on.",
+    "location": {
+      "address": "Available upon request",
+      "postalCode": "CA 94115",
+      "city": "Thunder Bay",
+      "countryCode": "CA",
+      "region": "Ontario"
+    },
+    "profiles": [
+      {
+        "network": "linkedin",
+        "username": "Anthony Baumgartner",
+        "url": "https://www.linkedin.com/in/anthonybaumgartner/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Confederation College",
+      "position": "IMD Lab Monitor",
+      "website": "confederation college",
+      "startDate": "2016-12-01",
+      "endDate": "2017-12-01",
+      "summary": "Confederation College is a provincially-funded college of applied arts and technology located in Thunder Bay, Ontario, Canada.",
+      "highlights": [
+        "Cleaned and upkept computer labs and program area",
+        "Provided students technical and scholarly assistance"
+      ]
+    },
+    {
+      "company": "Fort William Historic Park",
+      "position": "Historic Interpreter  ",
+      "website": "http://fwhp.ca/",
+      "startDate": "2015-12-01",
+      "endDate": "2017-12-01",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Annual Northwest Farmers Market of Sioux Lookout",
+      "position": "Farmers Market Worker",
+      "website": "",
+      "startDate": "2012-08-23",
+      "endDate": "2013-09-01",
+      "summary": "",
+      "highlights": [
+        "Raised and took down vendor tents.",
+        "Cooked barbeque foods",
+        "Worked in a team environment"
+      ]
+    },
+    {
+      "organization": "Sacred Heart Graveyard",
+      "position": "Graveyard Maintenance",
+      "website": "",
+      "startDate": "2012 ",
+      "endDate": "",
+      "summary": "",
+      "highlights": []
+    }
+  ],
+  "education": [
+    {
+      "institution": "Confederation College",
+      "area": "Interactive Media Development",
+      "studyType": "Bachelor",
+      "startDate": "2015-09-05",
+      "endDate": "2018-05-01",
+      "gpa": "4.0",
+      "courses": [
+        "Interactive I-III",
+        "Sound and Motion I-II",
+        "3D Graphics I-III",
+        "Graphic Design I-III",
+        "Web Development I-III",
+        "Digital Photography I-II",
+        "Client Project I-II"
+      ]
+    },
+    {
+      "institution": "Lakehead University",
+      "area": "Mechanical Engineering",
+      "studyType": "Degree",
+      "startDate": "2014-09-05",
+      "endDate": "2015-05-01",
+      "gpa": "",
+      "courses": []
+    }
+  ],
+  "awards": [
+    {
+      "title": "First Class Standing ",
+      "date": "2015-05-01",
+      "awarder": "Confederation College",
+      "summary": ""
+    },
+    {
+      "title": "First Class Standing ",
+      "date": "2016-05-01",
+      "awarder": "Confederation College",
+      "summary": ""
+    }
+  ],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Web Developer",
+      "level": "",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript"
+      ]
+    },
+    {
+      "name": "App Developer",
+      "level": "",
+      "keywords": [
+        "NativeScript",
+        "Adobe AIR"
+      ]
+    },
+    {
+      "name": "",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "French",
+      "fluency": "Functional"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Mobile Game Development",
+      "keywords": [
+        "Unity",
+        "Adobe AIR"
+      ]
+    },
+    {
+      "name": "Animation and Illustration",
+      "keywords": [
+        "Adobe Animate CC",
+        "Illustrator"
+      ]
+    },
+    {
+      "name": "Music",
+      "keywords": [
+        "Digital Paino",
+        "GarageBand"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Richard Riddell",
+      "reference": ""
+    },
+    {
+      "name": "",
+      "reference": ""
+    }
+  ]
+}
