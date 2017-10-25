@@ -4,9 +4,9 @@
     "label": "Interactive Media Developer",
     "picture": "https://i0.wp.com/anthonyismedia.com/wp-content/uploads/AnthonyProfilePicFramed-2.png?resize=1024%2C1024",
     "email": "anthonybaumgartner@hotmail.ca",
-    "phone": "(912) 555-4321",
+    "phone": "(807) 555-4321",
     "website": "http://anthonyismedia.com/",
-    "summary": "Nowadays, more talented people are making their passion a career and I’m no different. I love making anything! Art, software, 3D models, music, websites, animation you name it, I’ve most likely tried it before and I don’t think I’ll ever get tired of it. Allow me to introduce myself, I am Anthony Baumgartner, an Interactive Media Development Student from Confederation College and I am pursuing my passion to keep creating and making ideas come alive in any medium I get my hands on.",
+    "summary": "As a Creative Coder and an Interactive Media Developer, I am very versatile and driven to take on innovative projects. Multimedia is my passion and I look forward to making projects realized.",
     "location": {
       "address": "Available upon request",
       "postalCode": "CA 94115",
@@ -27,9 +27,9 @@
       "company": "Confederation College",
       "position": "IMD Lab Monitor",
       "website": "confederation college",
-      "startDate": "2016-12-01",
+      "startDate": "2014-12-01",
       "endDate": "2017-12-01",
-      "summary": "Confederation College is a provincially-funded college of applied arts and technology located in Thunder Bay, Ontario, Canada.",
+      "summary": "",
       "highlights": [
         "Cleaned and upkept computer labs and program area",
         "Provided students technical and scholarly assistance"
@@ -39,10 +39,13 @@
       "company": "Fort William Historic Park",
       "position": "Historic Interpreter  ",
       "website": "http://fwhp.ca/",
-      "startDate": "2015-12-01",
-      "endDate": "2017-12-01",
+      "startDate": "2016-9-01",
+      "endDate": "2018-12-22",
       "summary": "",
-      "highlights": []
+      "highlights": [
+        "Presented and interpreted history daily",
+        "Conducted customer service"
+      ]
     }
   ],
   "volunteer": [
@@ -58,22 +61,13 @@
         "Cooked barbeque foods",
         "Worked in a team environment"
       ]
-    },
-    {
-      "organization": "Sacred Heart Graveyard",
-      "position": "Graveyard Maintenance",
-      "website": "",
-      "startDate": "2012 ",
-      "endDate": "",
-      "summary": "",
-      "highlights": []
     }
   ],
   "education": [
     {
       "institution": "Confederation College",
       "area": "Interactive Media Development",
-      "studyType": "Bachelor",
+      "studyType": "College Advanced Diploma",
       "startDate": "2015-09-05",
       "endDate": "2018-05-01",
       "gpa": "4.0",
@@ -84,17 +78,12 @@
         "Graphic Design I-III",
         "Web Development I-III",
         "Digital Photography I-II",
-        "Client Project I-II"
+        "Client Project I-II",
+        "Business of Interactive Media",
+        "Computer Hardware",
+        "Major Studio",
+        "Entrepreneurship In the Media Age"
       ]
-    },
-    {
-      "institution": "Lakehead University",
-      "area": "Mechanical Engineering",
-      "studyType": "Degree",
-      "startDate": "2014-09-05",
-      "endDate": "2015-05-01",
-      "gpa": "",
-      "courses": []
     }
   ],
   "awards": [
@@ -119,7 +108,8 @@
       "keywords": [
         "HTML",
         "CSS",
-        "Javascript"
+        "Javascript",
+        "Bootstrap"
       ]
     },
     {
@@ -127,13 +117,19 @@
       "level": "",
       "keywords": [
         "NativeScript",
-        "Adobe AIR"
+        "Adobe AIR",
+        "Unity"
       ]
     },
     {
-      "name": "",
+      "name": "Graphic, UI and UX  Design",
       "level": "",
-      "keywords": []
+      "keywords": [
+        "Wireframes",
+        "Web and App Mockups",
+        "Illustrator CC",
+        "Photoshop CC"
+      ]
     }
   ],
   "languages": [
@@ -171,12 +167,16 @@
   ],
   "references": [
     {
-      "name": "Richard Riddell",
-      "reference": ""
+      "name": "Orion Atkinson",
+      "reference": "Tel. (807) 475-6210"
     },
     {
-      "name": "",
-      "reference": ""
+      "name": "Richard Riddell",
+      "reference": "Tel. (807) 473-3854"
+    },
+    {
+      "name": "David Shepherd",
+      "reference": "Tel. (807) 252-3799"
     }
   ]
 }
