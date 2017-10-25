@@ -1,0 +1,94 @@
+#resume{
+    
+    background: #36628F;
+    padding: 20px;
+    color: white;
+   
+}
+
+@font-face {
+    font-family: Raleway;
+    src: url(fonts/Raleway-Regular.ttf);
+    font-weight: normal;
+}
+
+
+h1{
+    padding: 10px;
+    background-color: #2C4866;
+    font-weight: 700;
+     background: -webkit-linear-gradient(left top, #3f76af, #2e5174, #294c6f,  #558ed0);
+    border-radius: 10px;
+    box-shadow: 8px 8px 10px #182e46;
+    text-align: center;
+}
+
+a{
+    color: #9FCFFF;
+    text-decoration: none;
+}
+
+em{
+    color: #bedfff;
+    text-decoration: none;
+}
+
+.date{
+    
+}
+
+.institution{
+    font-size: 18px;
+    font-weight: 700;
+    
+}
+
+.area{
+       font-size: 18px;
+    
+}
+
+
+
+h2{
+    padding: 10px;
+    background-color: #2C4866;
+    font-weight: 400;
+    border-radius: 10px;
+    text-align: center;
+      background: -webkit-linear-gradient(left top, #3f76af, #2e5174, #294c6f,  #558ed0);
+    box-shadow: 8px 8px 10px #182e46;
+}
+
+h3{
+    margin-top: 0;
+}
+
+#basics{
+    padding: 20px;
+    background-color: #243e5a;
+    font-weight: 400;
+    border-radius: 10px;
+}
+
+.item{
+   
+    padding-left: 10px;
+    padding-top: 10px;
+     padding-bottom: 20px;
+    background-color: #243e5a;
+    font-weight: 400;
+    
+    border-radius: 10px;
+   
+}
+
+ul {
+	margin-top: 5px;
+}
+
+#profiles .item,
+#skills .item,  {
+	float: left;
+	width: 50%;
+}

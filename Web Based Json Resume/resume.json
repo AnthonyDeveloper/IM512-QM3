@@ -1,0 +1,363 @@
+{
+
+  "basics": {
+
+    "name": "Anthony Baumgartner",
+
+    "label": "Interactive Media Developer",
+
+    "picture": "https://i0.wp.com/anthonyismedia.com/wp-content/uploads/AnthonyProfilePicFramed-2.png?resize=1024%2C1024",
+
+    "email": "anthonybaumgartner@hotmail.ca",
+
+    "phone": "(807) 633-2617",
+
+    "website": "http://anthonyismedia.com/",
+
+    "summary": "As a Creative Coder and an Interactive Media Developer, I am very versatile and driven to take on innovative projects. Multimedia is my passion and I look forward to making projects realized.",
+
+    "location": {
+
+      "address": "428 Redwood Ave West",
+
+      "postalCode": "P7C 1Z8",
+
+      "city": "Thunder Bay",
+
+      "countryCode": "CA",
+
+      "region": "Ontario"
+
+    },
+
+    "profiles": [
+
+      {
+
+        "network": "linkedin",
+
+        "username": "Anthony Baumgartner",
+
+        "url": "https://www.linkedin.com/in/anthonybaumgartner/"
+
+      }
+
+    ]
+
+  },
+
+  "work": [
+
+    {
+
+      "company": "Confederation College",
+
+      "position": "IMD Lab Monitor",
+
+      "website": "confederation college",
+
+      "startDate": "2014-12-01",
+
+      "endDate": "2017-12-01",
+
+      "summary": "",
+
+      "highlights": [
+
+        "Cleaned and upkept computer labs and program area",
+
+        "Provided students technical and scholarly assistance"
+
+      ]
+
+    },
+
+    {
+
+      "company": "Fort William Historic Park",
+
+      "position": "Historic Interpreter  ",
+
+      "website": "http://fwhp.ca/",
+
+      "startDate": "2016-9-01",
+
+      "endDate": "2018-12-22",
+
+      "summary": "",
+
+      "highlights": [
+
+        "Presented and interpreted history daily",
+
+        "Conducted customer service"
+
+      ]
+
+    }
+
+  ],
+
+  "volunteer": [
+
+    {
+
+      "organization": "Annual Northwest Farmers Market of Sioux Lookout",
+
+      "position": "Farmers Market Worker",
+
+      "website": "",
+
+      "startDate": "2012-08-23",
+
+      "endDate": "2013-09-01",
+
+      "summary": "",
+
+      "highlights": [
+
+        "Raised and took down vendor tents.",
+
+        "Cooked barbeque foods",
+
+        "Worked in a team environment"
+
+      ]
+
+    }
+
+  ],
+
+  "education": [
+
+    {
+
+      "institution": "Confederation College",
+
+      "area": "Interactive Media Development",
+
+      "studyType": "College Advanced Diploma",
+
+      "startDate": "2015-09-05",
+
+      "endDate": "2018-05-01",
+
+      "gpa": "4.0",
+
+      "courses": [
+
+        "Interactive I-III",
+
+        "Sound and Motion I-II",
+
+        "3D Graphics I-III",
+
+        "Graphic Design I-III",
+
+        "Web Development I-III",
+
+        "Digital Photography I-II",
+
+        "Client Project I-II",
+
+        "Business of Interactive Media",
+
+        "Computer Hardware",
+
+        "Major Studio",
+
+        "Entrepreneurship In the Media Age"
+
+      ]
+
+    }
+
+  ],
+
+  "awards": [
+
+    {
+
+      "title": "First Class Standing ",
+
+      "date": "2015-05-01",
+
+      "awarder": "Confederation College",
+
+      "summary": ""
+
+    },
+
+    {
+
+      "title": "First Class Standing ",
+
+      "date": "2016-05-01",
+
+      "awarder": "Confederation College",
+
+      "summary": ""
+
+    }
+
+  ],
+
+  "publications": [],
+
+  "skills": [
+
+    {
+
+      "name": "Web Developer",
+
+      "level": "",
+
+      "keywords": [
+
+        "HTML",
+
+        "CSS",
+
+        "Javascript",
+
+        "Bootstrap"
+
+      ]
+
+    },
+
+    {
+
+      "name": "App Developer",
+
+      "level": "",
+
+      "keywords": [
+
+        "NativeScript",
+
+        "Adobe AIR",
+
+        "Unity"
+
+      ]
+
+    },
+
+    {
+
+      "name": "Graphic, UI and UX  Design",
+
+      "level": "",
+
+      "keywords": [
+
+        "Wireframes",
+
+        "Web and App Mockups",
+
+        "Illustrator CC",
+
+        "Photoshop CC"
+
+      ]
+
+    }
+
+  ],
+
+  "languages": [
+
+    {
+
+      "language": "English",
+
+      "fluency": "Native speaker"
+
+    },
+
+    {
+
+      "language": "French",
+
+      "fluency": "Functional"
+
+    }
+
+  ],
+
+  "interests": [
+
+    {
+
+      "name": "Mobile Game Development",
+
+      "keywords": [
+
+        "Unity",
+
+        "Adobe AIR"
+
+      ]
+
+    },
+
+    {
+
+      "name": "Animation and Illustration",
+
+      "keywords": [
+
+        "Adobe Animate CC",
+
+        "Illustrator"
+
+      ]
+
+    },
+
+    {
+
+      "name": "Music",
+
+      "keywords": [
+
+        "Digital Paino",
+
+        "GarageBand"
+
+      ]
+
+    }
+
+  ],
+
+  "references": [
+
+    {
+
+      "name": "Orion Atkinson",
+
+      "reference": "Tel. (807) 475-6210"
+
+    },
+
+    {
+
+      "name": "Richard Riddell",
+
+      "reference": "Tel. (807) 473-3854"
+
+    },
+
+    {
+
+      "name": "David Shepherd",
+
+      "reference": "Tel. (807) 252-3799"
+
+    }
+
+  ]
+
+}
